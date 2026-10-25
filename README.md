@@ -1,75 +1,126 @@
 # Nasir Amme
 
-**Full-Stack Software Engineer** &bull; **Software Engineering Student at Dire Dawa University**  
-*Dire Dawa, Ethiopia*
+**Software Engineering Student at Dire Dawa University | Full-Stack Developer | PHP, Laravel, JavaScript**
 
-[Portfolio](https://nasir-amme-portfolio.vercel.app) &bull; [LinkedIn](https://www.linkedin.com/in/nasir-amme-9a29a7340) &bull; [Email](mailto:nasiramme1511@gmail.com) &bull; [GitHub](https://github.com/nasiramme1511)
+*Dire Dawa, Ethiopia 🇪🇹*
 
----
-
-### Professional Overview
-
-I am a software engineer focused on building **reliable business applications, resilient backend architectures, and production-grade web systems**. My work centers on relational database design, granular role-based access control (RBAC), transactional integrity, and responsive full-stack interfaces. 
-
-Currently completing my Bachelor of Science in Software Engineering at Dire Dawa University with practical experience developing civic, retail, and organizational systems across Ethiopia.
+[Portfolio](https://nasir-amme-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nasir-amme-9a29a7340) · [Email](mailto:nasiramme1511@gmail.com) · [GitHub](https://github.com/nasiramme1511)
 
 ---
 
-### Core Engineering Competencies
+## Professional Overview
 
-```
-Languages & Runtimes:  TypeScript, JavaScript (ES6+), Node.js, SQL, PHP, Java
-Frontend Development:  React, Next.js (App Router), Vite, Tailwind CSS, HTML5/CSS3
-Backend Engineering:   Express.js, RESTful APIs, Next.js API Routes, Laravel, Prisma ORM, Sequelize ORM
-Database Systems:      PostgreSQL, Neon Serverless Postgres, MySQL, SQLite, 3NF Normalization
-Mobile & Tooling:      React Native, Expo, Git & GitHub, Linux, Bash, Vitest, Postman
-Security & Practices:  Role-Based Access Control (RBAC), Session Security, JWT, Transactional Integrity
-```
+I am a Software Engineering student at Dire Dawa University focused on building reliable full-stack applications, practical business systems, and secure database-driven software.
 
----
+My work explores relational database design, role-based access control (RBAC), transactional integrity, API development, and responsive user interfaces. I enjoy turning real-world problems into maintainable software and improving my engineering skills through hands-on projects.
 
-### Featured Systems & Case Studies
+## Technical Skills
 
-#### 1. [Nasir Amme Electronics — Retail POS & Inventory Management System](https://github.com/nasiramme1511/Nasir_Amme_Electronics)
-*Production-ready retail point-of-sale and warehouse inventory engine engineered for hardware shops.*
-- **Architecture:** Next.js 16 (App Router), TypeScript, Prisma ORM, Neon PostgreSQL, Tailwind CSS.
-- **Core Features:** Multi-rail cashier checkout (Cash, Telebirr, CBE Birr), shift reconciliation with Z-reports, double-entry inventory audit ledgers, barcode scanning, thermal receipt generation, and real-time database connection telemetry.
-- **Engineering Highlights:** 100+ automated test assertions covering RBAC boundaries, ledger immutability, date-boundary revenue calculations, and race-condition resistance.
-
-#### 2. [Organization Membership Management System (OMMS)](https://github.com/nasiramme1511/omms-web-app) &bull; [Live Demo](https://omms-web-app.onrender.com)
-*Multi-tenant SaaS platform for organizational administration, member workflows, and events.*
-- **Architecture:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Prisma ORM, MySQL / TiDB Cloud.
-- **Core Features:** Dynamic custom attribute schema definitions per organization, granular multi-role permissions, automated event registration, payment tracking, and Tesseract OCR document parsing.
-- **Deployment:** Containerized backend and static SPA deployed on Render.
-
-#### 3. [Membership Fee Management System (MCMS)](https://github.com/nasiramme1511/Membership-Fee-Management-System)
-*Directive-based contribution calculation and financial ledger platform for Dire Dawa City Administration.*
-- **Architecture:** React, TypeScript, Node.js, Express, Sequelize ORM, MySQL, ExcelJS, i18next.
-- **Core Features:** Automated salary-bracket fee classification directives, memory-efficient ExcelJS bulk import/export pipeline for thousands of members, audit logs, and multilingual interface.
-
-#### 4. [Finance Tracker (Fintech Mobile)](https://github.com/nasiramme1511/fintech)
-*Cross-platform mobile finance application built for personal and multi-account balance tracking.*
-- **Architecture:** React Native, Expo Router, TypeScript, Supabase (PostgreSQL), SQLite, Zustand, NativeWind.
-- **Core Features:** Multi-account balances (Cash, Bank, Mobile Money), automated transaction logging via bank SMS parsing for Ethiopian financial services, monthly category budget limits, and analytics charts.
-
-#### 5. [Personal Engineering Portfolio](https://github.com/nasiramme1511/nasir-amme-portfolio) &bull; [Live Website](https://nasir-amme-portfolio.vercel.app)
-*Modern, accessible portfolio platform showcasing technical case studies and software architecture.*
-- **Architecture:** Next.js 14, TypeScript, Tailwind CSS, Framer Motion, Vitest, GitHub Actions CI.
-- **Deployment:** Continuous deployment on Vercel with automated build verification.
+- **Languages:** TypeScript, JavaScript, PHP, SQL, Java
+- **Frontend:** React, Next.js, Vite, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, Laravel, REST APIs
+- **Databases and ORMs:** PostgreSQL, MySQL, SQLite, Prisma, Sequelize
+- **Mobile:** React Native, Expo
+- **Tools:** Git, GitHub, Linux, Bash, Postman, Vitest
+- **Engineering Practices:** RBAC, API validation, database transactions, authentication, testing
 
 ---
 
-### Engineering Principles
+## Featured Projects
 
-- **Data Integrity Over Surface Decoration:** Schema constraints, database transactions, foreign keys, and audit logs are non-negotiable fundamentals.
-- **Security by Design:** Granular RBAC, server-side payload validation (Zod), scoped authentication, and strict least-privilege principles.
-- **Test-Verified Claims:** Features, financial aggregations, and access controls are backed by deterministic test suites rather than unverified assertions.
-- **Resilient in Real-World Constraints:** Architecting software that performs reliably under intermittent internet connections, mobile network latencies, and local payment rails.
+### 1. Nasir Amme Electronics — Retail Management System
+
+A retail management application focused on point-of-sale workflows, product inventory, and business operations.
+
+**Technology:** Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS
+
+**Project focus:**
+- Retail checkout and sales management
+- Inventory tracking and stock movements
+- Role-based access control
+- Sales reporting and operational workflows
+- Database integrity and automated testing
+
+[View Source Code](https://github.com/nasiramme1511/Nasir_Amme_Electronics)
+
+### 2. Organization Membership Management System (OMMS)
+
+A web application for organizational administration, membership workflows, events, and payment tracking.
+
+**Technology:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Prisma, MySQL/TiDB
+
+**Project focus:**
+- Membership and organizational workflows
+- Role-based permissions
+- Event registration and payment tracking
+- Document-processing features
+
+[View Repository](https://github.com/nasiramme1511/omms-web-app) · [Live Demo](https://omms-web-app.onrender.com)
+
+### 3. Membership Fee Management System (MCMS)
+
+A membership and fee management application designed around contribution calculations, reporting, and administrative workflows.
+
+**Technology:** React, TypeScript, Node.js, Express, Sequelize, MySQL, ExcelJS, i18next
+
+**Project focus:**
+- Membership fee calculation workflows
+- Bulk spreadsheet import and export
+- Administrative reporting and audit trails
+- Multilingual user interfaces
+
+[View Repository](https://github.com/nasiramme1511/Membership-Fee-Management-System)
+
+### 4. Fintech Mobile — Finance Tracker
+
+A cross-platform mobile application for managing personal finances, accounts, transactions, and budgets.
+
+**Technology:** React Native, Expo, TypeScript, Supabase, SQLite, Zustand, NativeWind
+
+**Project focus:**
+- Multi-account balance tracking
+- Income and expense management
+- Budgeting and financial analytics
+- Transaction workflows
+
+[View Repository](https://github.com/nasiramme1511/fintech)
+
+*This is a collaborative project; see the repository for contributors and individual contributions.*
+
+### 5. Personal Engineering Portfolio
+
+My personal website for presenting projects, technical interests, and professional information.
+
+**Technology:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+
+**Project focus:**
+- Responsive portfolio pages
+- Project case studies
+- Accessible interface design
+- Professional contact and project links
+
+[View Source Code](https://github.com/nasiramme1511/nasir-amme-portfolio) · [Visit Portfolio](https://nasir-amme-portfolio.vercel.app)
 
 ---
 
-### Current Focus & Education
+## Engineering Principles
 
-- **Education:** B.Sc. in Software Engineering, Dire Dawa University (Class of 2026)
-- **Current Deep Dives:** Distributed systems patterns, high-concurrency PostgreSQL connection pooling, and offline-first client replication.
-- **Location:** Dire Dawa, Ethiopia &bull; Available for full-stack engineering roles and high-impact business systems projects.
+- **Data integrity:** Design schemas and workflows that preserve consistent data.
+- **Security:** Apply server-side validation, least-privilege access, and appropriate authentication controls.
+- **Maintainability:** Favor clear architecture, readable code, and documented decisions.
+- **Testing:** Validate important behavior with repeatable tests and report results accurately.
+- **Practical problem-solving:** Build software around real workflows and user needs.
+
+## Education and Current Focus
+
+**B.Sc. in Software Engineering**  
+Dire Dawa University
+
+Currently strengthening my skills in full-stack development, database architecture, software testing, and maintainable application design.
+
+**Open to:** Relevant internships, junior full-stack developer opportunities, and collaborative software projects.
+
+---
+
+*Building practical software, learning continuously, and sharing the journey.*
+
